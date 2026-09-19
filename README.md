@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi, my name is Poyraz and I'm a freshman studying Computer Science at Bilkent University
 <!--
 **poyraziums/poyraziums** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
